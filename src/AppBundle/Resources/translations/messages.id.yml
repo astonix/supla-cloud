@@ -1,0 +1,230 @@
+# src/AppBundle/Resources/translations/messages.id.yml
+
+Hi: Hai
+Delete: Hapus
+Caption: Judul
+Enabled: Diaktifkan
+Disabled: Nonaktifkan
+Search: Cari
+Assigned Locations: Lokasi Ditempatkan
+Password change: Ubah Kata Sandi
+Registration: Pendaftaran
+Password Reset: Reset Kata Sandi
+Account: Akun
+Forgot your password ?: Lupa Kata Sandi?
+Server address: Alamat Server
+Cancel: Batal
+CANCEL: BATAL
+Are you sure you want to delete?: Apakah anda yakin ingin menghapus?
+Relay switching time: Waktu pertukaran relai
+sec.: Detik
+Download the history of measurement: Unduh Riwayat Pengukuran
+Open sensor: Buka Sensor
+None: Tidak Ada
+Channel for the sensor: Kanal Untuk Sensor
+Channel: Kanal
+Channel No: Nomor Kanal
+Channel properties: Karakter Kanal 
+Device: Perangkat
+Access Identifier: Tanda Pengenal Akses
+Type: Tipe
+Number: Nomor
+I/O: Masukan/Keluaran
+Function: Fungsi
+Name: Nama
+Location: Lokasi
+Locations: Lokasi-Lokasi
+No Locations assigned: Tidak Ada Lokasi Ditempatkan
+Lack of Locations: Lokasi Kurang
+SoftVer: Perangkat Lunak Versi
+All: Semua
+Electric: Listrik
+Doors, Gates: Pintu, Gerbang
+Roller shutters: Jendela Gulung
+Liquid, Temp: Cairan, Suhu
+Sensors: Sensor
+No function: Tidak Ada Fungsi
+Connected: Terhubung
+Disconnected: Terputus
+unknown: Tidak Diketahui
+Comment: Komentar
+Channels: Kanal
+I/O Devices: Perangkat I/O
+Assigned Access Identifiers: Tanda Pengenal Akses Ditempatkan
+Start Here: Mulai Di Sini
+Sign In: Masuk
+Sign Out: Keluar
+Generate new password: Buat Kata Sandi Baru
+Password: Kata Sandi
+Confirm Password: Konfirmasi Kata Sandi
+SAVE: SIMPAN
+GENERATE: MENGHASILKAN
+ENABLED: DIAKTIFKAN
+CLICK TO DISABLE: KLIK UNTUK NONAKTIF
+DISABLED: NONAKTIF
+CLICK TO ENABLE: KLIK UNTUK MENGAKTIFKAN
+DELETE: HAPUS
+Assign Locations: Tempatkan Lokasi
+Confirm if you want to remove Access Identifier: Konfirmasi jika anda ingin menghapus tanda pengenal akses
+Confirm if you want to remove Location: Konfirmasi jika anda ingin menghapus lokasi
+Further connection with this Identifier will be impossible: Hubungan lebih lanjut dengan tanda pengenal ini tidak memungkinkan
+Choose locations to be assigned to Access Identifier: Pilih lokasi untuk ditempatkan ke tanda pengenal akses
+Access Identifiers: Tanda Pengenal Akses
+Create New Access Identifier: Buat Tanda Pengenal Akses Baru
+No Locations to be assigned to this Access Identifier.<br />Go to Locations and add one.: Tidak ada lokasi yang ditempatkan ke tanda pengenal akses ini.<br /> Pergi ke Lokasi, dan tambahkan.
+No Access Identifiers to be assigned to this<br /> Location. Go to Access Identifier and add one.: Tidak ada tanda pengenal akses ditempatkan ke Lokasi ini. <br /> Pergi ke Tanda Pengenal Akses, dan tambahkan. 
+You will no longer be able to connect the i/o devices to this Location: Anda tidak akan dapat terhubung lagi ke perangkat I/O di Lokasi ini.
+Create New Location: Buat Lokasi Baru
+Assign Access Identifiers: Tempatkan Tanda Pengenal Akses
+Languages: Bahasa
+No I/O Devices: Tidak Ada Perangkat I/O
+Choose Access Identifiers to be assigned to this Location: Pilih tanda pengenal akses untuk ditempatkan di Lokasi ini.
+Are you sure?: Apakah Anda yakin?
+Lighting: Lampu
+Temperature: Suhu
+Doors and gates: Pintu dan Gerbang
+Roller shutters: Jendela Gulung
+Home appliances: Perangkat Rumah
+And more: Dan banyak lagi
+From anywhere: Dari mana saja
+With SUPLA you can operate the lights in your home or office: Dengan SUPLA Anda dapat mengoperasikan lampu rumah dan kantor
+...you can monitor temperature: ...Anda dapat memonitor suhu
+...open gateways, gates or doors: ...Membuka gerbang jalan, gerbang rumah atau pintu
+...open and shut roller shutters: ...Membuka atau menutup jendela gulung
+...or control home appliances: ...atau mengendalikan perangkat rumah
+All the above and many more can be done from your phone or tablet: Semua hal di atas dan banyak lagi dapat dilakukan dari telepon genggam atau Tablet Anda
+SUPLA is available from anywhere at any time, so do not worry, if you forget to turn the lights off next time: SUPLA tersedia di manapun dan kapanpun, jadi jangan khawatir jika Anda lupa mematikan lampu lain kali.
+Registered: Terdaftar
+Last connection: Sambungan Terakhir
+Confirm if you want to remove <strong>%devname%</strong> device: Konfirmasi jika Anda ingin menghapus <strong>%devname%</strong> perangkat
+All Your I/O Devices: Semua Perangkat I/O Anda
+Please select function for this channel: Silahkan pilih fungsi untuk kanal ini
+No Access Identifiers assigned: Tidak ada tanda pengenal ditempatkan
+Lack of Access Identifiers: Kurang tanda pengenal akses
+Change Your Password: Ubah Kata Sandi Anda
+On your computer...: Di komputer Anda...
+On your smartphone...: Di telepon genggam Anda...
+It's easy to get your home or office connected to SUPLA.: Sangat mudah mengubungkan rumah atau kantor Anda ke SUPLA.
+All you need is to follow the steps below.: Semua yang Anda butuhkan adalah mengikuti langkah-langkah di bawah.
+Make it work: Jadikan ini bekerja
+You can not connect your I/O Devices unless at least one Access Identifier is assigned to any Location: Anda tidak dapat menyambungkan perangkat I/O, kecuali satu tanda pengenal akses sudah ditempatkan di salah satu lokasi. 
+Install SUPLA on your smartphone.: Pasang SUPLA di telepon genggam Anda.
+Open SUPLA app.: Buka aplikasi SUPLA
+Fill in the fields with settings provided above.: Isikan dengan pengaturan yang sudah tersedia di atas.
+Tap <strong>Done</strong> and wait until the app connects.: Tekan <strong>Selesai</strong> dan tunggu hingga aplikasi tersambung.
+Download RaspberryPI <a href="https://www.supla.org/download">SD Card Image</a>.: Unduh Raspberry PI <a href="https://www.supla.org/download">Image Kartu SD</a>.
+Transfer downloaded image onto the SD Card.: Transfer Image yang terunduh ke dalam kartu SD.
+Open <strong>boot\location.txt</strong> file. Copy and paste the above settings.: Buka berkas <strong>boot\location.txt</strong>. Salin dan tempel pengaturan di atas.
+Done.: Selesai.
+Download and flash <a href="https://www.supla.org/download">Firmware</a> for the microcontroller: Unduh dan program lah <a href="https://www.supla.org/download">Firmware</a> untuk Mikrokontroler.
+Turn the device on: Hidupkan perangkat
+Press and hold the P1 button for 5 sec. (Default GPIO2): Tekan dan tahan tombol P1 selama 5 detik (standar GPIO2)
+Connect the computer to WiFi called SUPLA-ESP8266: Sambungkan komputer ke WiFi dengan nama SUPLA-ESP8266 
+Go to http://192.168.4.1: Pergi ke http://192.168.4.1
+Enter location settings provided above: Masukkan pengaturan lokasi yang tersedia di atas
+Enter access data to your WiFi: Masukkan data akses ke WiFi Anda
+Click "Save": Klik "Simpan"
+Restart the device or press the P1 button: Hidupkan kembali perangkat atau tekan tombol P1
+For more details please go to <a href="https://www.supla.org">www.supla.org</a>: Untuk lebih jelasnya silahkan ke <a href="https://www.supla.org">www.supla.org</a>
+Download <a href="https://www.supla.org/download/ArduinoSuplaDevice.zip">SuplaDevice library</a> for Arduino: Unduh <a href="https://www.supla.org/download/ArduinoSuplaDevice.zip">Pustaka SUPLADevice</a> untuk Arduino 
+Run Arduino IDE: Jalankan Arduino IDE
+Click Sketch -> Include library -> Add .ZIP Library: Klik Sketch -> Include Library -> Add pustaka ZIP 
+Open one of the examples. File -> Examples -> SuplaDevice: Buka satu contoh.  File -> Examples -> SuplaDevice
+Complete the code (GUID, Server, Location ID, Location Password): Lengkapi kode (GUIG, Server, Lokasi ID, Kata Sandi Lokasi)
+Upload program to Arduino: Unggah program ke Arduino
+Previous login: Masuk Sebelumnya
+from IP: dari alamat IP
+Current Password: Kata sandi sekarang
+New password: Kata sandi baru
+Change Password: Ubah kata sandi
+Coming soon: Akan datang
+Develop your own building automation: Kembangkan otomasi gedung Anda sendiri
+Based on available electronics, SUPLA enables you to build simple modules to navigate and operate building automation elements. Through SUPLA you can, among others, control the lighting, switch on and off household appliances and media, open and shut gates and doors, or control room temperature. All the above can be done with just touch of a finger.: Berdasar pada komponen elektronik yang tersedia, SUPLA memungkinkan Anda untuk membuat modul sederhana untuk mengendalikan elemen otomasi gedung. dengan SUPLA Anda dapat mengendalikan lampu, menghidupkan dan mematikan perangkat rumah, membuka dan menutup gerbang dan pintu, atau monitor suhu ruangan. Semua hal di atas dapat dilakukan hanya dengan sentuhan jari.
+SUPLA everywhere!: SUPLA di mana-mana! 
+One of the main assumptions of this project is simplicity and availability. SUPLA allows simple light operation or gate opening, when you want to leave your premises, with just touch of a finger. SUPLA is available from any place on Earth if you just have a smartphone or tables available as well as Internet access.  SUPLA is developed based on an Open Software and Hardware. This way, you can also develop this project!.: Salah satu alasan utama proyek ini adalah kemudahan dan ketersediaan. SUPLA memungkinkan operasi lampu sederhana atau membuka gerbang, ketika Anda ingin meninggalkan tempat, hanya dengan sentuhan jari. SUPLA tersedia dari tempat mana saja di bumi jika Anda hanya memiliki telepon genggam atau tablet dan juga sambungan internet. SUPLA dikembangkan berdasarkan perangkat lunak sumber terbuka dan perangkat keras terbuka (Open Source & Open Hardware). Dengan ini, anda juga dapat mengembangkan proyek ini!
+Free of charge and open!: Gratis dan terbuka!  
+Building automation systems available on the market are usually very complex, closed and expensive. In many cases they must be installed on the very early stages of house construction.  SUPLA is simple, open and free of charge. It gives an opportunity to build elements based on RaspberryPI, Arduino or ESP8266 platforms and then join them either through LAN or WiFi. Join the project and build your own version of building automation system!: Sistem otomasi gedung yang tersedia di pasaran biasanya sangat rumit, tertutup dan mahal. Dalam banyak kasus, perangkat harus terpasang pada tahap lebih awal pembangunan gedung. SUPLA ini sederhana, terbuka dan gratis. Hal ini memberikan peluang untuk membuat komponen berdasarkan RaspberryPI, Arduino atau ESP8266 dan menggabungkannya bisa melalui LAN atau WiFi. Bergabunglah dalam proyek dan buat sistem otomasi gedung versi Anda sendiri!
+#inside php code                  
+Data saved: Data tersimpan
+Save: Simpan
+Location limit has been exceeded: Batas lokasi telah terlampaui.
+Success: Berhasil
+New location has been created: Lokasi baru telah dibuat
+Error: Salah
+Location has been deleted: Lokasi telah dihapus
+Data saved!: Data tersimpan!
+Access identifier limit has been exceeded: Batas tanda pengenal akses telah terlampaui.
+New access identifier has been created: Tanda pengenal akses baru telah dibuat
+Information: Informasi
+Access identifier has been deleted: Tanda pengenal akses telah dihapus
+I/O Device has been deleted: Perangkat I/O telah dihapus
+Account has been activated. You can Sign In now.: Akun telah diaktifkan. Anda dapat masuk sekarang.
+Unknown error: Kesalahan tidak diketahui.
+Token does not exist: Token tidak ada
+Access identifier has been enabled: Tanda pengenal akses telah diaktifkan
+Access identifier has been disabled: Tanda pengenal akses telah dinonaktifkan
+Caption has been changed: Judul telah diubah
+Password has been changed: Kata sandi telah diubah 
+Location has been enabled: Lokasi telah diaktifkan
+Location has been disabled: Lokasi telah dinonaktifkan
+Remove all the associated devices before you delete this location: Hapuslah semua perangkat yang berhubungan, sebelum Anda menghapus lokasi ini.
+Comment has been modified: Komentar telah diubah
+I/O Device has been disabled: Perangkat I/O telah dinonaktifkan
+I/O Device has been enabled: Perangkat I/O telah diaktifkan
+Password field cannot be left empty: Isian kata sandi tidak bisa dikosongkan
+Current password is incorrect: Kata sandi tidak benar
+Password has been changed!: Kata sandi telah diubah!
+Create an account: Buat akun
+Enter your email: Masukkan alamat email
+Enter your email address: Masukkan alamat email
+Repeat your email: Ulangi alamat email
+Enter password: Masukkan kata sandi
+Enter strong password: Masukkan kata sandi yang kuat
+Repeat password: Ulangi kata sandi
+Don't worry, you can always reset your password via email. <strong>Click here</strong> to do so.: Jangan khawatir, Anda dapat me-reset kata sandi lewat email. <strong>Klik di sini</strong> untuk melakukannya.
+Password Reset: Reset Kata Sandi 
+RESET: RESET
+Click RESET button when visible: Klik tombol RESET saat muncul.
+Check your email box: Cek email Anda.
+Please fill the field before continuing: Silahkan isi sebelum melanjutkan.
+Please fill a valid email address: Silahkan isi alamat email yang benar.
+Whoops, that's not an email address!: Upsss, itu bukanlah alamat email!
+Supla for devices: SUPLA untuk perangkat
+Next: Lanjut
+Get SUPLA on your devices: Dapatkan SUPLA untuk perangkat Anda
+...and start your adventure with building automation today!: … dan mulai petualanganmu dengan otomasi gedung sekarang!
+Mobile Apps: Aplikasi Mobile
+Sources available from <strong>GitHub</strong>: Sumber tersedia dari <strong>GitHub</strong>
+Input: Masukan
+Output: Keluaran
+Sensor (normal open): Sensor (normal buka)
+Sensor (normal closed): Sensor (normal tutup)
+Relay: Relai
+HFD4 Relay: Relai HFD4
+G5LA1A Relay: Relai G5LA1A 
+G5LA1A Relay x2: Relai 2xG5LA1A 
+DS18B20 Thermometer: Sensor Suhu DS18B20
+DHT11 Temperature & Humidity Sensor: Sensor Suhu dan Kelembaban DHT11 
+DHT22 Temperature & Humidity Sensor: Sensor Suhu dan Kelembaban DHT22 
+AM2302 Temperature & Humidity Sensor: Sensor Suhu dan Kelembaban AM2302 
+Dimmer: Dimmer
+RGB led controller: Pengendali lampu LED RGB
+Dimmer & RGB led controller: Dimmer dan Pengendali lampu LED RGB 
+Thermometer: Termometer
+Gateway lock operation: Operasi kunci pintu gerbang
+Gate operation: Operasi gerbang
+Garage door operation: Operasi pintu garasi
+Door lock operation: Operasi kunci pintu
+Roller shutter operation: Operasi jendela gulung 
+Gateway opening sensor: Sensor pembukaan pintu gerbang
+Gate opening sensor: Sensor pembukaan gerbang 
+Garage door opening sensor: Sensor pembukaan pintu garasi
+Door opening sensor: Sensor pembukaan pintu
+Roller shutter opening sensor: Sensor pembukaan jendela gulung
+No liquid sensor: Tidak ada sensor cairan
+On/Off switch: Sakelar On/Off
+Light switch: Sakelar Lampu
+Humidity sensor: Sensor Kelembaban
+Temperature and humidity sensor: Sensor Suhu dan Kelembaban
+RGB lighting: Lampu RGB
+Dimmer and RGB lighting: Lampu RGB dan Dimmer 
